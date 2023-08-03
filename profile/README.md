@@ -1,1 +1,1 @@
-![Comstice Logo](comstice.png)
+![Comstice Logo](profile/comstice.png)
