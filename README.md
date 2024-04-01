@@ -1,1 +1,1 @@
-![Contribution guidelines for this project](comstice.png)
+![Contribution guidelines for this project](profile/comstice.png)
